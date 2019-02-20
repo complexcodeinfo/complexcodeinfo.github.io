@@ -1,6 +1,6 @@
 # The definition 
 
-> "Complex code" an expression of a state of mind of a software engineer towards source code of a codebase in a given timeframe .
+> "Complex code" is an expression of a state of mind of a software engineer towards source code of a codebase in a given timeframe.
 
 # The software engineer
 A person, who poses expertise and skill to modify data and instractions for a computer to operate.
