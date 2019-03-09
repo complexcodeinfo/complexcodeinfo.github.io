@@ -5,8 +5,7 @@ Together and whoever is concerned, we all should understand the reasoning, motiv
 
 This site address to people: software engineers, managers, family and friends to help to uncover best practises. It should support engineers in need to overcome time pressure, unreasonable demand for features, learning paralysis and covered incompetence. 
 
-
-
+To proceed, let's try to define very basic and important state, which people have in mind when dealing with source code of any legacy or unfamiliar system: the code is complex.
 
 # The definition 
 
