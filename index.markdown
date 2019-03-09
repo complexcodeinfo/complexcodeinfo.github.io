@@ -1,7 +1,9 @@
 # Overview
-It is not a secret that software projects became less and less managable as development continues. Every change increases entropy and increases technical debt if these qualiteis are not managed directly. While industry has dedicated terms and processes to describe the state of the software implementation, it does not point to oblivious root cause. This cause should be treated with excessive care and kindness, as it is very sensitive in nature. People, and namelly software engineers make changes which increase complexity of the software. They do it because they think the code is complex. 
+It is not a secret that software projects became less and less managable as development continues. Every change increases entropy and increases technical debt if these qualities are not managed directly. While industry dedicates terms and processes to describe the state of the software implementation, it does not point to oblivious root cause. This cause should be treated with excessive care and kindness, as it is very sensitive in nature. People, and namelly software engineers make changes which increase complexity of the software.
 
-This site address to people: software engineers, managers, family and friends to help to manage perception of one. It should support to overcome time pressure, unreasonable demand for features, learning paralysis and covered incompetence. 
+Together and whoever is concerned we all should understand the reasoning, motivation and fear behind actions which slowly and surely kills projects.
+
+This site address to people: software engineers, managers, family and friends to help to uncover best practises. It should support engineers in need to overcome time pressure, unreasonable demand for features, learning paralysis and covered incompetence. 
 
 
 
